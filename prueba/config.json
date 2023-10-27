@@ -1,0 +1,5 @@
+{
+    "mongo": "mongodb+srv://username:password@host",
+    "email": "email@example.com",
+    "email_password":  "password"
+}
